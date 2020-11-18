@@ -1,5 +1,5 @@
 {
-    "name": "rsm/rsm-test",
+    "name": "yessaliyev/rsm-test",
     "type": "project",
     "require": {
         "symfony/yaml": "^5.1"
