@@ -1,6 +1,6 @@
 <?php
 require '../vendor/autoload.php';
-use Rsm\RsmTest;
+use Yessaliyev\RsmTest;
 
 $test = new RsmTest();
 $test->start();

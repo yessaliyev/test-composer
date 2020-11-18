@@ -1,5 +1,5 @@
 <?php
-namespace Rsm;
+namespace Yessaliyev;
 
 class RsmTest{
     public function start()
