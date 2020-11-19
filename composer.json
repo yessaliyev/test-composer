@@ -1,19 +1,19 @@
 {
     "name": "yessaliyev/test",
+    "description": "test",
     "type": "library",
-    "require": {
-        "symfony/yaml": "^5.1"
-    },
+    "license": "MIT",
     "authors": [
         {
             "name": "yessaliyev",
             "email": "40271311+yessaliyev@users.noreply.github.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Yessaliyev\\":"src/Yessaliyev"
         }
-    }
+    },
+    "require": {}
 }
