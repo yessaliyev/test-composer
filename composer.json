@@ -1,15 +1,16 @@
 {
-    "name": "yessaliyev/rsm-test",
-    "type": "project",
+    "name": "yessaliyev/test",
+    "type": "library",
     "require": {
         "symfony/yaml": "^5.1"
     },
     "authors": [
         {
             "name": "yessaliyev",
-            "email": "esaliev9898@gmail.com"
+            "email": "40271311+yessaliyev@users.noreply.github.com"
         }
     ],
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Yessaliyev\\":"src/Yessaliyev"
